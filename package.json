@@ -1,0 +1,25 @@
+{
+  "name": "be_exam_jn",
+  "version": "1.0.0",
+  "description": "This repo contains an exercise intended for Back-End Engineers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jn394/be_exam_jn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jn394/be_exam_jn/issues"
+  },
+  "homepage": "https://github.com/jn394/be_exam_jn#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "fast-csv": "^2.4.1",
+    "mongoose": "^5.4.8"
+  }
+}
